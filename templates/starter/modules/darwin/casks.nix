@@ -22,5 +22,5 @@ _:
   "raycast"
 
   # Browsers
-  "brave"
+  "google-chrome"
 ]
